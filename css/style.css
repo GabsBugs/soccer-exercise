@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://th.bing.com/th/id/R.cc8b397df394315a5c3dbd0e2c8e4a06?rik=J2xhMYAYNxngQw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f6%2fb%2f7%2f881776-stadium-wallpapers-2000x1224-phone.jpg&ehk=j1VQE9MSM3YKH2u%2b0F4Ubm99ZIxhyuqhqFvUqAppylc%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+table {
+    background-color: rgba(223, 216, 216, 0.899);
+}
+
+.libertadores {
+    color: rgb(11, 202, 11)
+}
+
+.copasulamericana {
+    color: orange
+}
+
+.semclasse {
+    color: purple
+}
+
+.rebaixamento {
+    color: red
+}
